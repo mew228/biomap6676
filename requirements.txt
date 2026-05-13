@@ -1,0 +1,9 @@
+langchain
+langchain-chroma
+langchain-huggingface
+chromadb
+pydantic
+sentence-transformers
+fastapi
+uvicorn
+fastapi-cors
