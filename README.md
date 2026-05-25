@@ -8,7 +8,7 @@ BioMap is an advanced medical research tool designed for high-precision document
 - **Strict Semantic Routing:** Automatically categorizes records into Continents (Primary Domain), Provinces (Target Molecule), and Laboratories (Context).
 - **Glassmorphic UI:** A Meta-inspired dashboard with dark mode, fluid micro-animations, and high-density data visualizations.
 - **Local Vector Storage:** Powered by ChromaDB for fast, persistent, and private semantic search across indexed records.
-- **Real-time Confidence Metrics:** Visualizes classification precision with dynamic progress bars and badges.
+
 
 ## 🛠️ Technology Stack
 
