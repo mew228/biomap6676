@@ -7,3 +7,5 @@ sentence-transformers
 fastapi
 uvicorn
 fastapi-cors
+pandas
+numpy
